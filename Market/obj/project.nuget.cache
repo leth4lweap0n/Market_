@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "noWqdK8XICqQuibfCileGdni/ZwCP7DmRppzL1VygqIqjJ5QVh81SIw4FCc/W1WMgggFfbr1gyQc1a7HVHMxNA==",
+  "dgSpecHash": "bkRNgBJgIeqmu6zYJALHOLFwLJEBYaIbDE9XifUpuAw4CUrQUFjutWLZlj5HPhpp3urs5WJkNnNwH0dF394FJA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leth4\\Downloads\\MarketOrnek-master\\Market\\Market.csproj",
+  "projectFilePath": "C:\\Github Repositories\\Market_\\Market\\Market.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages\\devexpress.charts\\21.2.5\\devexpress.charts.21.2.5.nupkg.sha512",
     "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages\\devexpress.charts.core\\21.2.5\\devexpress.charts.core.21.2.5.nupkg.sha512",

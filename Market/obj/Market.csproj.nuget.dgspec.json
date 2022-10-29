@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leth4\\Downloads\\MarketOrnek-master\\Market\\Market.csproj": {}
+    "C:\\Github Repositories\\Market_\\Market\\Market.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leth4\\Downloads\\MarketOrnek-master\\Market\\Market.csproj": {
+    "C:\\Github Repositories\\Market_\\Market\\Market.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leth4\\Downloads\\MarketOrnek-master\\Market\\Market.csproj",
+        "projectUniqueName": "C:\\Github Repositories\\Market_\\Market\\Market.csproj",
         "projectName": "Market",
-        "projectPath": "C:\\Users\\leth4\\Downloads\\MarketOrnek-master\\Market\\Market.csproj",
+        "projectPath": "C:\\Github Repositories\\Market_\\Market\\Market.csproj",
         "packagesPath": "C:\\Users\\leth4\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leth4\\Downloads\\MarketOrnek-master\\Market\\obj\\",
+        "outputPath": "C:\\Github Repositories\\Market_\\Market\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",

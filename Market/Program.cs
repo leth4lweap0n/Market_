@@ -15,9 +15,9 @@ namespace Market
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            //var LogInForm = new LogIn.LogIn();
-            //if (LogInForm.ShowDialog() != DialogResult.OK)
-            //    Process.GetCurrentProcess().Kill();
+            var LogInForm = new LogIn.LogIn();
+            if (LogInForm.ShowDialog() != DialogResult.OK)
+                Process.GetCurrentProcess().Kill();
             Application.Run(new Main.Main());
         }
     }

@@ -15,11 +15,11 @@ namespace Market.Entity
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             base.OnConfiguring(optionsBuilder);
-            optionsBuilder.UseSqlServer("Server=ATES-DESKTOP\\MSSQLSERVERDEV19;" +
+            optionsBuilder.UseSqlServer("Server=-----------------;" +
                                         "Database=ExampleDB;" +
                                         "TrustServerCertificate = True;" +
                                         "uid =sa;" +
-                                        "pwd=a24t87e33S75;");
+                                        "pwd=------------;");
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
